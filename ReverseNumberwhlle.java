@@ -1,4 +1,4 @@
-package fire;
+package basic;
 import java.util.Scanner;
 
 public class ReverseNumberwhlle {
@@ -10,7 +10,7 @@ public class ReverseNumberwhlle {
 		System.out.println("input your number and press enter");
         
 		
-		@SuppressWarnings("resource")
+		
 		Scanner scanner = new Scanner(System.in);
 		
 		num = scanner.nextInt();
