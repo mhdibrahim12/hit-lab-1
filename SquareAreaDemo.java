@@ -1,10 +1,9 @@
-package fire;
+package basic;
 import java.util.Scanner;
 public class SquareAreaDemo {
 
 	public static void main(String[] args) {
 		System.out.println("Enter the side of square");
-		@SuppressWarnings("resource")
 		Scanner scanner = new Scanner (System.in);
 		
 		double side = scanner.nextDouble();
