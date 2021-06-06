@@ -1,4 +1,4 @@
-package fire;
+package basic;
 import java.util.Scanner;
 public class CircleDemo {
     static Scanner sc = new Scanner(System.in); 
