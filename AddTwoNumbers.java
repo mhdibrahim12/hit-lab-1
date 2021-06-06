@@ -1,4 +1,4 @@
-package fire;
+package basic;
 
 public class AddTwoNumbers {
 
